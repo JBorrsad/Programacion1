@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Cafetera
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cafetera\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Cafetera()
+comment2.params=
+comment2.target=int\ getCapacidadMaxima()
+comment3.params=capacidadM
+comment3.target=void\ setCapacidadMaxima(int)
+comment4.params=
+comment4.target=int\ getcantidadActual()
+comment5.params=cantidadA
+comment5.target=void\ setcantidadActual(int)
+comment6.params=
+comment6.target=void\ llenarCafetera()
+comment7.params=servir
+comment7.target=void\ servirTaza(int)
+comment8.params=
+comment8.target=void\ vaciarCafetera()
+comment9.params=masCafe
+comment9.target=void\ agregarCafe(int)
+numComments=10

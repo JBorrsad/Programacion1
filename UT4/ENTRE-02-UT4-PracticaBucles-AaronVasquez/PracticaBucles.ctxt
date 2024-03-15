@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.target=PracticaBucles
+comment0.text=\r\n\ \ \ \ Aaron\ Vasquez\ 1\u00BAB\ DAM\ PROGRAMACION\r\n
+comment1.params=
+comment1.target=PracticaBucles()
+comment1.text=\r\n\ Constructor\ \ \r\n
+comment10.params=numero
+comment10.target=boolean\ numeroDivisoresMayorTres(int)
+comment11.params=numero
+comment11.target=boolean\ numeroDivisoresMayorTres2(int)
+comment2.params=n
+comment2.target=void\ generarNumeros(int)
+comment2.text=\r\n\ \ El\ m\u00E9todo\ \ genera\ \ n\u00FAmeros\ aleatorios\ \ entre\ -1000\ y\ 5000\ (inclusive)\r\n\ \ y\ calcula\ y\ escribe\:\r\n\ \ \ \ \ \ -\ la\ media\ de\ todos\ los\ n\u00FAmeros\r\n\ \ \ \ \ \ -\ la\ suma\ de\ los\ impares\r\n\ \ \ \ \ \ -\ el\ m\u00E1ximo\ de\ los\ pares\r\n\ \ \ \ \ \ \ \ \r\n\ \ El\ proceso\ termina\ cuando\ sale\ un\ 0\ o\ bien\ se\ han\ escrito\ n\ n\u00BAs\r\n\ \ \r\n\ \ Los\ n\u00FAmeros\ se\ escriben\ \ en\ filas\ de\ 5\ columnas\ \r\n\ \ Cada\ n\u00BA\ aleatorio\ se\ muestra\ en\ un\ espacio\ de\ 12\ espacios\ en\ la\ pantalla\ \ \r\n\ \ y\ al\ lado\ de\ cada\ n\u00BA\ se\ muestra\ otro\ n\u00BA\ despues\ de\ una\ "\ ,\ "\ con\ las\ mismas\ cifras\ y\ \r\n\ \ en\ el\ mismo\ orden\ pero\ sin\ ceros\ (en\ 5\ espacios)\r\n\ \ \r\n\ \ \ Utiliza\ solo\ bucles\ while\r\n
+comment3.params=letra\ palabra
+comment3.target=int\ numLetras(char,\ java.lang.String)
+comment3.text=\r\n\ \ Devuelve\ el\ n\u00FAmero\ de\ letras\ que\ aparecen\ en\ palabra\ (la\ cantidad\ de\ veces\ que\ aparece\ la\ misma\ letra\ en\ la\ palabra)\r\n
+comment4.params=numero
+comment4.target=int\ obtenerNumeroSinCeros(int)
+comment4.text=\r\n\ \ Dado\ un\ n\u00BA\ genera\ y\ devuelve\ otro\ nuevo\ \r\n\ \ con\ las\ mismas\ cifras\ y\ en\ el\ mismo\ orden\ pero\ sin\ \r\n\ \ los\ 0\r\n\ \ Ej\ -\ si\ numero\ \=\ 2040\ devuelve\ \ 24,\ si\ numero\ \=\ 1009\ devuelve\ \ 19\r\n\ \ si\ numero\ \=\ 3000\ devuelve\ 3\r\n\ \ \ \r\n\ \ \ \r\n
+comment5.params=
+comment5.target=void\ borrarPantalla()
+comment5.text=\r\n\ \ Borrar\ la\ pantalla\r\n\r\n
+comment6.params=letra\ palabra
+comment6.target=boolean\ estaDentrodePalabra(char,\ java.lang.String)
+comment7.params=n
+comment7.target=int\ fibonacci(int)
+comment8.params=divisor\ limite
+comment8.target=int\ numerosDivisibles(int,\ int)
+comment9.params=divisor\ limite
+comment9.target=int\ numerosDivisibles2(int,\ int)
+numComments=12

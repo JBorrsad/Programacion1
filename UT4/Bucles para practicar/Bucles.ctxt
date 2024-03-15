@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Bucles
+comment0.text=\ Ejer\ 4.14\r\n\ Write\ a\ description\ of\ class\ Bucles\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=numero
+comment10.target=void\ escribirTablasMultiplicar(int)
+comment11.params=cuantos\ limite
+comment11.target=void\ calcularSumatorios(int,\ int)
+comment2.params=desde\ hasta
+comment2.target=void\ escribirNumero(int,\ int)
+comment3.params=desde\ hasta
+comment3.target=void\ mostrarPares(int,\ int)
+comment4.params=
+comment4.target=void\ generarAleatorios()
+comment5.params=n
+comment5.target=double\ sumarSerie(int)
+comment6.params=numero
+comment6.target=int\ sumaDivisores(int)
+comment7.params=n
+comment7.target=void\ escribirFigura(int)
+comment8.params=n
+comment8.target=void\ escribirFigura1(int)
+comment9.params=n
+comment9.target=void\ escribirFigura2(int)
+numComments=12

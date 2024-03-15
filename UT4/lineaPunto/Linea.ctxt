@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Linea
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ lineaPunto\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Linea()
+comment10.params=punto2
+comment10.target=void\ setPunto2(Punto)
+comment11.params=
+comment11.target=void\ printLinea()
+comment2.params=punto1\ punto2
+comment2.target=Linea(Punto,\ Punto)
+comment3.params=distancia
+comment3.target=void\ moverDerecha(int)
+comment4.params=distancia
+comment4.target=void\ moverIzquierda(int)
+comment5.params=distancia
+comment5.target=void\ moverArriba(int)
+comment6.params=distancia
+comment6.target=void\ moverAbajo(int)
+comment7.params=
+comment7.target=Punto\ getPunto1()
+comment8.params=
+comment8.target=Punto\ getPunto2()
+comment9.params=punto1
+comment9.target=void\ setPunto1(Punto)
+numComments=12

@@ -1,0 +1,13 @@
+Math.floor: Este método se utiliza para redondear un número decimal hacia abajo al número entero más cercano.
+En otras palabras, Math.floor siempre redondea un número hacia el entero menor o igual más cercano.
+
+Math.ceil:  Este método se utiliza para redondear un número decimal hacia arriba al número entero más cercano.
+En otras palabras, Math.ceil siempre redondea un número hacia el siguiente entero mayor o igual.
+
+Math.round: La función Math.round() en Java se utiliza para redondear un número decimal al entero más cercano.
+
+Math.random: (int)Math.random()*1000; (aqui estamos diciendo que mathrandom estaba en double y lo pasamos a int, ademas tendra un valor desde 0 hasta 1000 y el 1000 es
+exclusive osea que el 1000 no se cuenta, por lo tanto se quedaria de 0 hasta 999, si queremos añadir un minimo seria (int)Math.random()*1000)+100; en este caso
+el valor minimo sera 100  y el valor maximo 1100 siendo igual que antes valor minimo 100 y el valor maximo es 1100 exclusive osea que llega hasta 1099.
+
+numeroCliente++: se añadira +1 al valor cada vez que pase un cliente (++)

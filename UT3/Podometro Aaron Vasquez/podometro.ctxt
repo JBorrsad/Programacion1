@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=podometro
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ podometro\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=marc
+comment1.target=podometro(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMarca()
+comment3.params=queAltura\ queSexo
+comment3.target=void\ configurar(double,\ char)
+comment4.params=pasos\ dia\ horaInicio\ horaFin
+comment4.target=void\ registrarCaminata(int,\ int,\ int,\ int)
+comment5.params=
+comment5.target=void\ printConfiguraci\u00F3n()
+comment6.params=
+comment6.target=java.lang.String\ diaMayorNumeroPasos()
+comment7.params=
+comment7.target=void\ printEstadisticas()
+comment8.params=
+comment8.target=void\ reset()
+numComments=9
