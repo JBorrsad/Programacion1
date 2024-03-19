@@ -1,9 +1,17 @@
 public class FicheroJPG extends FicheroImagen{
-    private Compresion Compresion;
+    private Compresion compresion;
 
 
-    public FicheroJPG(String titulo, int tamaño, Compresion compresion) {
-        super(titulo, tamaño);
-        Compresion = compresion;
+    public FicheroJPG(String titulo, int tamano, Compresion compresion) {
+        super(titulo, tamano);
+        this.compresion = compresion;
     }
+    @Override
+    public void display() {
+        super.display();
+        System.out.println("\nCompresion:"+ compresion);
+    }
+
+
+
 }

@@ -4,21 +4,21 @@
  */
 public abstract class Fichero {
     private String titulo;
-    private int tamaño;
+    private int tamano;
 
     /**
      *
      */
-    public Fichero(String titulo, int tamaño) {
+    public Fichero(String titulo, int tamano) {
         this.titulo = titulo;
-        this.tamaño = tamaño;
+        this.tamano = tamano;
     }
 
     /**
      *
      */
     public int getTamaño() {
-        return tamaño;
+        return tamano;
     }
 
     /**
@@ -32,6 +32,6 @@ public abstract class Fichero {
      *
      */
     public void display() {
-        System.out.println(this.toString());
+        System.out.println(this.getClass().getSimpleName() +"\n"+"Titulo:"+titulo+"\n"+"Tamaño:"+  tamano);
     }
 }

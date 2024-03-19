@@ -1,12 +1,9 @@
 ﻿public abstract class FicheroImagen extends Fichero {
 
 
-    public FicheroImagen(String titulo, int tamaño) {
-        super(titulo, tamaño);
+    public FicheroImagen(String titulo, int tamano) {
+        super(titulo, tamano);
     }
 
-    @Override
-    public void display() {
-        super.display();
-    }
+
 }

@@ -1,7 +1,5 @@
-﻿/**
- * Clase ReproductorMP3 
- *
- */
+﻿import java.util.*;
+
 
 public class ReproductorMP3 {
 
@@ -13,7 +11,7 @@ public class ReproductorMP3 {
      * Constructor de la clase ReproductorMP3
      */
     public ReproductorMP3(int bytes) {
-        ficheros = new ArrayList<Fichero>();
+       ficheros = new ArrayList<Fichero>();
         capacidad = bytes;
 
         //ficheros gratis
