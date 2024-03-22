@@ -1,22 +1,20 @@
-
-
+import java.lang.reflect.Array;
+import java.util.ArrayList;
 
 public  class GestorFiguras {
 
     private  Figura figura; // la colección de figuras
 
+    ArrayList <Figura>gestor;
+
 
     public GestorFiguras() {
-
+      gestor= new ArrayList<Figura>();
     }
 
-    /**
-     *
-     * @param  f una nueva figura a añadir
-     *
-     */
-    public void addFigura(Figura f) {
 
+    public void addFigura(Figura f) {
+gestor.add(f);
     }
 
     /**
@@ -25,6 +23,9 @@ public  class GestorFiguras {
      */
     public void listarFiguras() {
 
+        for (int i = 0; i < gestor.size(); i++) {
+            System.out.println(gestor.get(i).toString());
+        }
 
     }
 

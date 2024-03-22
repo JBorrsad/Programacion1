@@ -27,25 +27,14 @@ this.color=c;
 return centro;
         }
 
-        /**
-         *
-         * Accesor para el color de la figura
-         *  @return el color de la figura 
-         */
         public Color getColor() {
 return color;
         }
 
-
-        /**
-         *
-         *  Representación textual de una figura
-         *
-         *
-         */
+        public abstract double getArea();
+        public abstract double getPerimetro();
         public String toString() {
-super.toString()
-
+return super.toString();
         }
 
 
